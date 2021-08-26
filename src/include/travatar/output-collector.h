@@ -7,6 +7,7 @@
 #include <boost/thread/mutex.hpp>
 #include <pthread.h>
 #include <iostream>
+#include <map>
 
 namespace travatar {
 
